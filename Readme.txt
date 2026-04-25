@@ -1,0 +1,1 @@
+This is a AI agent who trains to play the Snake game using reinforment learning
