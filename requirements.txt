@@ -1,3 +1,5 @@
 ipykernel
 Pygame
 torch
+numpy
+IPython
